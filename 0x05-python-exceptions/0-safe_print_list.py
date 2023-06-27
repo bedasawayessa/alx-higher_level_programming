@@ -2,9 +2,7 @@
 # 0-safe_print_list.py
 # Bedasa Wayessa <bedonaf@gmail.com>
 
-
 def safe_print_list(my_list=[], x=0):
-    
     """Print x elememts of a list.
 
     Args:
