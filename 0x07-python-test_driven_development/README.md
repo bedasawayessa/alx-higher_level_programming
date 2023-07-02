@@ -2,4 +2,4 @@
 
 ## Description
 
-* [`tests/`](./tests) - Main functions provided by Holberton School to test the files and `.txt` files for testing using `Doctest`.
+* [`tests/`](./tests) - Main functions to test the files and `.txt` files
