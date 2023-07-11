@@ -1,1 +1,1 @@
-Hello python Inheritance
+this is python inheritance
